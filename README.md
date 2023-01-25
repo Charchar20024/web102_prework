@@ -31,6 +31,7 @@ GIF created with ...
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
+![Screen_Recording_2023-01-24_at_9_12_05_PM_AdobeExpress](https://user-images.githubusercontent.com/92543813/214479171-0f73ac02-29e7-4a59-81ed-47fc828baf16.gif)
 
 ## Notes
 
