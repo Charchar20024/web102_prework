@@ -6,7 +6,6 @@ Crowdfunding is a website for the company Sea Monster Crowdfunding that displays
 
 Time spent: **6** hours spent in total
 
-## Required Features
 
 The following **required** functionality is completed:
 
@@ -15,27 +14,11 @@ The following **required** functionality is completed:
 * [x] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
 * [x] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
-The following **optional** features are implemented:
-
-* [ ] List anything else that you can get done to improve the app functionality!
-
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
-![Screen_Recording_2023-01-24_at_9_12_05_PM_AdobeExpress](https://user-images.githubusercontent.com/92543813/214479171-0f73ac02-29e7-4a59-81ed-47fc828baf16.gif)
-
-## Notes
-
-Describe any challenges encountered while building the app.
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='700px' alt='Video Walkthrough' />
 
 ## License
 
